@@ -23,6 +23,7 @@ body{
     font-size: 15px;
     line-height: 24px;
     color: $text;
+    overflow-x: hidden;
 }
 .container{
     max-width: 1200px;
@@ -67,3 +68,6 @@ body{
     font-size: 14px;
   }
 }
+// .content{
+//   margin-bottom: 300px;
+// }

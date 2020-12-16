@@ -9,6 +9,7 @@
   "author": "Markian Kovalko",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "cssmin": "^0.4.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
