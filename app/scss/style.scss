@@ -1311,8 +1311,7 @@ margin-bottom: 20px;
 .page-404,
 .about,
 .contact,
-.settings,
-.profile{
+.settings{
   background-color: #f4f6f5;
   padding-bottom: 150px;  
 }
@@ -1603,9 +1602,12 @@ margin-bottom: 20px;
 }
 // ehd settings
 // start profile
+.profile{
+  background-color: #f4f6f5;
+}
 .profile__inner{
   display: flex;
-  margin-bottom: 30px;
+  margin-bottom: 8px;
 }
 .profile__aside{
   margin-right: 30px;
